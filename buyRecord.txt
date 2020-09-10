@@ -1,4 +1,3 @@
  ════════════════════════════ 
                ***** 购入信息 *****                       
  ════════════════════════════ 
-NAME:手机	TIME:2020年09月10日16:19:31Thursday	COUNT:100
