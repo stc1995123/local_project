@@ -9,7 +9,7 @@ using std::cin;
 using std::endl;
 void ToBuy(int& ID,int& count)
 {
-	cout << "test github 2";
+	cout << "Hello " << endl; // test hell 
 	cout << "Test github " << endl;
 	cout<<"请输入购买商品的编号"<<endl;
     cin>>ID;
