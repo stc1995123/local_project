@@ -79,7 +79,7 @@ void trade::save()
 		if(!file.fail())
 		{
 			file<<" ════════════════════════════ \n";
-			file<<"               ***** 商品信息 *****                       \n";
+			file<<"        ***** GOODS IFFORMATION *****\n";
 	         file<<" ════════════════════════════ \n";
 			for(auto iter = dataList.begin();iter!=dataList.end();iter++)
 			{
